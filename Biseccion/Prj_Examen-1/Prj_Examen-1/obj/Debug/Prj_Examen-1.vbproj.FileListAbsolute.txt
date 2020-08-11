@@ -1,0 +1,10 @@
+c:\users\rosaly\documents\visual studio 2015\Projects\Prj_Examen-1\Prj_Examen-1\bin\Debug\Prj_Examen-1.exe.config
+c:\users\rosaly\documents\visual studio 2015\Projects\Prj_Examen-1\Prj_Examen-1\bin\Debug\Prj_Examen-1.exe
+c:\users\rosaly\documents\visual studio 2015\Projects\Prj_Examen-1\Prj_Examen-1\bin\Debug\Prj_Examen-1.pdb
+c:\users\rosaly\documents\visual studio 2015\Projects\Prj_Examen-1\Prj_Examen-1\bin\Debug\Prj_Examen-1.xml
+c:\users\rosaly\documents\visual studio 2015\Projects\Prj_Examen-1\Prj_Examen-1\obj\Debug\Prj_Examen_1.Form1.resources
+c:\users\rosaly\documents\visual studio 2015\Projects\Prj_Examen-1\Prj_Examen-1\obj\Debug\Prj_Examen_1.Resources.resources
+c:\users\rosaly\documents\visual studio 2015\Projects\Prj_Examen-1\Prj_Examen-1\obj\Debug\Prj_Examen-1.vbproj.GenerateResource.Cache
+c:\users\rosaly\documents\visual studio 2015\Projects\Prj_Examen-1\Prj_Examen-1\obj\Debug\Prj_Examen-1.exe
+c:\users\rosaly\documents\visual studio 2015\Projects\Prj_Examen-1\Prj_Examen-1\obj\Debug\Prj_Examen-1.xml
+c:\users\rosaly\documents\visual studio 2015\Projects\Prj_Examen-1\Prj_Examen-1\obj\Debug\Prj_Examen-1.pdb
